@@ -47,3 +47,34 @@ access modifiers
 Encapsulation
 java packages/api
 java inheritance
+
+02/03/2021
+polymorphism
+inner class
+abstract class and methods
+interface 
+LocaDate and time packages
+input methods
+Arraylist
+enum
+
+
+**********
+Strings(String function serializable,comparable,CharSequence)
+Strings ->String class,StringBuffer(),StringBuilder();
+
+exceptions
+try,catch,finally,throw,throws 
+
+Collection framework
+collection interface, set interface,listinterface,map interface,queue interface
+list interface ->Arraylist class,linkedlist class
+set interface -> Hashset class, LinkedHashset class, treeset;
+map -> hashmap class,treemap;
+collection class
+sort,swap,reverse,search
+wrapper classes
+iterator
+Multithreading 
+create,run,terminate
+
